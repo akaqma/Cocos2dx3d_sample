@@ -1,6 +1,8 @@
 Cocos2dx3d_sample
 =====================
 
-+CameraWithCocos2D
+リスト
+-------
+- CameraWithCocos2D
 
-+CameraWithCocos3D
+- ameraWithCocos3D
