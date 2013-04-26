@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCDirector.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../ccConfig.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../ccTypes.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Platforms/CCGL.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Platforms/iOS/glu.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Platforms/iOS/EAGLView.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/ESRenderer.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCProtocols.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCTexture2D.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Platforms/CCNS.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCScheduler.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Support/uthash.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCActionManager.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCAction.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Support/ccCArray.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCTextureCache.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../ccMacros.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCScene.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCNode.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Support/CCArray.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Support/OpenGL_Internal.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../Support/CGPointExtension.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/CCLayer.h

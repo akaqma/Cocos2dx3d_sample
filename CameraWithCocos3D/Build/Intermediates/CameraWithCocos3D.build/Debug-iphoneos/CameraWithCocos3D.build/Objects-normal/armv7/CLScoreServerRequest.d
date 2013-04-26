@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocoslive/CLScoreServerRequest.m \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/TouchJSON/JSON/CJSONDeserializer.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/TouchJSON/JSON/CJSONScanner.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/TouchJSON/CDataScanner.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocoslive/CLScoreServerPost.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocoslive/cocoslive.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocoslive/CLScoreServerRequest.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/ccMacros.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/ccConfig.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/../../CCDirector.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/ccTypes.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/CCGL.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/glu.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/EAGLView.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/iOS/ESRenderer.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/CCProtocols.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/CCTexture2D.h \
+  /Users/dev1_macmini/Dropbox/Develop/CameraWithCocos3D/CameraWithCocos3D/libs/cocos2d/Platforms/CCNS.h
